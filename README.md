@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishna Sharma</h1>
-<h3 align="center">A passionate pre-final year B.Tech student exploring Machine Learning, Deep Learning, Web Development, and Automation.</h3>
+<h1 align="center">Yo! I'm Krishna, a dev who loves building cool stuff 🛠️</h1>
 
 ---
 
@@ -26,6 +25,7 @@
 
 - **Job Portal:** A full-stack job posting and hiring platform built using Flask and React.
 - **Portfolio Website:** A personal website showcasing projects, experience, and skills.
+- **Book Recommendation:** A system to suggest books based on user preferences.
 
 ---
 
@@ -40,8 +40,8 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:your-email@example.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/krishna-sharma-3a9320271" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="mailto:krishnas2304@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 ---

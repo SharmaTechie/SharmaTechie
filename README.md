@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna Sharma</h1>
 <h3 align="center">A passionate pre-final year B.Tech student exploring Machine Learning, Deep Learning, Web Development, and Automation.</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
-</p>
-
 ---
 
 ## 🔥 About Me
@@ -24,8 +20,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-> ⚙️ Plus many more...
-
 ---
 
 ## 💼 Recent Projects
@@ -33,12 +27,8 @@
 ### 🔹 Job Portal
 A full-stack job posting and hiring platform built using Flask and React.
 
-![Job Portal Screenshot](https://via.placeholder.com/600x300?text=Job+Portal+Preview)
-
 ### 🔹 Portfolio Website
 A personal website showcasing projects, experience, and skills.
-
-![Portfolio Screenshot](https://via.placeholder.com/600x300?text=Portfolio+Preview)
 
 ---
 

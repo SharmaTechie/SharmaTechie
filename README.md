@@ -23,8 +23,8 @@
 
 ## 💼 Recent Projects
 
-- **Job Portal:** A full-stack job posting and hiring platform built using Flask and React.
-- **Portfolio Website:** A personal website showcasing projects, experience, and skills.
+- **Job Portal:** A full-stack job posting and hiring platform built using React and Tailwind.
+- **Portfolio Website:** A sample website showcasing projects, experience, and skills.
 - **Book Recommendation:** A system to suggest books based on user preferences.
 
 ---

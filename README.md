@@ -5,7 +5,7 @@
 
 ## 🔥 About Me
 
-- 🎓 I'm a **pre-final year B.Tech student**  
+- 🎓 I'm a **pre-final year B.Tech student**
 - 🤖 Passionate about **Machine Learning**, **Deep Learning**, **Web Development**, and **Automation**
 - 💡 Always eager to learn new technologies and take on challenges
 - 🚀 Currently building cool stuff using Python and React
@@ -24,11 +24,8 @@
 
 ## 💼 Recent Projects
 
-### 🔹 Job Portal
-A full-stack job posting and hiring platform built using Flask and React.
-
-### 🔹 Portfolio Website
-A personal website showcasing projects, experience, and skills.
+- **Job Portal:** A full-stack job posting and hiring platform built using Flask and React.
+- **Portfolio Website:** A personal website showcasing projects, experience, and skills.
 
 ---
 
@@ -42,7 +39,7 @@ A personal website showcasing projects, experience, and skills.
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="mailto:your-email@example.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
 </p>

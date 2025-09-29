@@ -4,7 +4,7 @@
 
 ## 🔥 About Me
 
-- 🎓 I'm a **pre-final year B.Tech student**
+- 🎓 I'm a **final year B.Tech student**
 - 🤖 Passionate about **Machine Learning**, **Deep Learning**, **Web Development**, and **Automation**
 - 💡 Always eager to learn new technologies and take on challenges
 - 🚀 Currently building cool stuff using Python and React
